@@ -1,2 +1,2 @@
-# zdcms
+# zedcms
 PHP Frontend Test Portal
